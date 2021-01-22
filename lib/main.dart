@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:stories/story_brain.dart';
-import 'package:rflutter_alert/rflutter_alert.dart';
 
 void main() {
   runApp(Stories());
